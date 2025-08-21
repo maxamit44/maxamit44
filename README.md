@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hello, I'm Amit Max ⚡ 👋
 
-<!--
-**maxamit44/maxamit44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Amit+Max!;Web+Developer...;Active+Learner...;Love+to+learn+new+technologies...&center=true&width=500&height=50" alt="Typing SVG">
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">🎀 About Me</h3>
+
+###
+
+<p align="left">- 🔭 Currently I am learning JavaScript and Typescript<br>- 📚 Learn Everyday<br>- ⚡ In my free time, I still code<br>- 🏫 Besides Simple web developer</p>
+
+###
+
+## 🛠️ Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+
+
+## 🔥 Profile Views
+
+ <p align="center">
+  <img width="400px" src="https://count.getloli.com/get/@maxamit44?theme=rule34"></img>
+</p>
+
+#
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maxamit44/maxamit44/output/snake.svg" alt="Snake animation" />
+
+###
